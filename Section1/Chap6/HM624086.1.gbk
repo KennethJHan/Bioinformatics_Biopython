@@ -1,0 +1,114 @@
+LOCUS       HM624086                1701 bp    cRNA    linear   VRL 18-OCT-2011
+DEFINITION  Influenza A virus (A/Perth/260/2009(H1N1)) segment 4 hemagglutinin
+            (HA) gene, complete cds.
+ACCESSION   HM624086
+VERSION     HM624086.1
+DBLINK      BioProject: PRJNA37813
+KEYWORDS    .
+SOURCE      Influenza A virus (A/Perth/260/2009(H1N1))
+  ORGANISM  Influenza A virus (A/Perth/260/2009(H1N1))
+            Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+            Orthomyxoviridae; Influenzavirus A.
+REFERENCE   1  (bases 1 to 1701)
+  AUTHORS   Deng,Y.M., Caldwell,N., Hurt,A., Shaw,T., Kelso,A., Chidlow,G.,
+            Williams,S., Smith,D. and Barr,I.
+  TITLE     A comparison of pyrosequencing and neuraminidase inhibition assays
+            for the detection of oseltamivir-resistant pandemic influenza
+            A(H1N1) 2009 viruses
+  JOURNAL   Antiviral Res. 90 (1), 87-91 (2011)
+   PUBMED   21376084
+REFERENCE   2  (bases 1 to 1701)
+  AUTHORS   Deng,Y.-M., Iannello,P., Ernest,J., Caldwell,N. and Komadina,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-JUL-2010) Reference and Research on Influenza, WHO
+            Collaborating Centre for Reference and Research on Influenza, 10
+            Wreckyn Street, North Melbourne, Victoria 3051, Australia
+COMMENT     Swine influenza A (H1N1) virus isolated during human swine flu
+            outbreak of 2009.
+            
+            ##GISAID_EpiFlu(TM)Data-START##
+            Isolate                :: A/Perth/260/2009
+            Subtype                :: H1N1
+            Segment_name           :: HA
+            Host_gender            :: M
+            Host_age               :: 38
+            Passage_history        :: MDCKX
+            Antigen_character      :: A/California/07/2009-like
+            Adamantane_resistance  :: RESISTANT
+            Oseltamivir_resistance :: RESISTANT
+            Country                :: Australia
+            State/Province         :: Western Australia
+            Localization_detail    :: Ocean Reef
+            Collection_day         :: 13
+            Collection_month       :: 08
+            Collection_year        :: 2009
+            Isolate_note           :: comment: H275Y change, patient treated
+                                      with oseltamivir Originating Laboratory:
+                                      Pathwest QE II Medical Centre, Hospital
+                                      Avenue, J Block, 6009, Nedlands, Western
+                                      Australia, Australia
+            EPI_accession          :: EPI270024
+            Lineage                :: swl
+            ##GISAID_EpiFlu(TM)Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1701
+                     /organism="Influenza A virus (A/Perth/260/2009(H1N1))"
+                     /mol_type="viral cRNA"
+                     /strain="A/Perth/260/2009"
+                     /serotype="H1N1"
+                     /host="Homo sapiens; gender M; age 38"
+                     /db_xref="taxon:861191"
+                     /segment="4"
+                     /country="Australia"
+                     /collection_date="13-Aug-2009"
+                     /note="lineage: swl"
+     gene            1..1701
+                     /gene="HA"
+     CDS             1..1701
+                     /gene="HA"
+                     /codon_start=1
+                     /product="hemagglutinin"
+                     /protein_id="ADJ67984.1"
+                     /translation="MKAILVVLLYTFATANADTLCIGYHANNSTDTVDTVLEKNVTVT
+                     HSVNLLEDKHNGKLCKLRGVAPLHLGKCNIAGWILGNPECESLSTASSWSYIVETSSS
+                     DNGTCYPGDFIDYEELREQLSSVSSFERFEIFPKTSSWPNHDSNKGVTAACPHAGAKS
+                     FYKNLIWLVKKGNSYPKLSKSYINDKGKEVLVLWGIHHPSTSADQQSLYQNADAYVFV
+                     GTSRYSKKFKPEIAIRPKVRDQEGRMNYYWTLVEPGDKITFEATGNLVVPRYAFAMER
+                     NAGSGIIISDTPVHDCNTTCQTPKGAINTSLPFQNIHPITIGKCPKYVKSTKLRLATG
+                     LRNVPSIQSRGLFGAIAGFIEGGWTGMVDGWYGYHHQNEQGSGYAADLKSTQNAIDEI
+                     TNKVNSVIEKMNTQFTAVGKEFNHLEKRIENLNKKIDDGFLDIWTYNAELLVLLENER
+                     TLDYHDSNVKNLYEKVRSQLKNNAKEIGNGCFEFYHKCDNTCMESVKNGTYDYPKYSE
+                     EAKLNREEIDGVKLESTRIYQILAIYSTVASSLVLVVSLGAISFWMCSNGSLQCRICI
+                     "
+ORIGIN      
+        1 atgaaggcaa tactagtagt tctgctatat acatttgcaa ccgcaaatgc agacacatta
+       61 tgtataggtt atcatgcgaa caattcaaca gacactgtag acacagtact agaaaagaat
+      121 gtaacagtaa cacactctgt taaccttcta gaagacaagc ataacgggaa actatgcaaa
+      181 ctaagagggg tagccccatt gcatttgggt aaatgtaaca ttgctggctg gatcctggga
+      241 aacccagagt gtgaatcact ctccacagca agctcatggt cctacattgt ggaaacatct
+      301 agttcagaca atggaacgtg ttacccagga gatttcatcg attatgagga gctaagagag
+      361 caattgagct cagtgtcatc atttgaaagg tttgagatat tccccaaaac aagttcatgg
+      421 cccaatcatg actcgaacaa aggtgtaacg gcagcatgtc ctcatgctgg agcaaaaagc
+      481 ttctacaaaa atttaatatg gctagttaaa aaaggaaatt catacccaaa gctcagcaaa
+      541 tcctacatta atgataaagg gaaagaagtc ctcgtgctat ggggcattca ccatccatct
+      601 actagtgctg accaacaaag tctctatcag aatgcagatg catatgtttt tgtggggaca
+      661 tcaagataca gcaagaagtt caagccggaa atagcaataa gacccaaagt gagggatcaa
+      721 gaagggagaa tgaactatta ctggacacta gtagagccgg gagacaaaat aacattcgaa
+      781 gcaactggaa atctagtggt accgagatat gcattcgcaa tggaaagaaa tgctggatct
+      841 ggtattatca tttcagatac accagtccac gattgcaata caacttgtca gacacccaag
+      901 ggtgctataa acaccagcct cccatttcag aatatacatc cgatcacaat tggaaaatgt
+      961 ccaaaatatg taaaaagcac aaaattgaga ctggccacag gattgaggaa tgtcccgtct
+     1021 attcaatcta gaggcctatt tggggccatt gccggtttca ttgaaggggg gtggacaggg
+     1081 atggtagatg gatggtacgg ttatcaccat caaaatgagc aggggtcagg atatgcagcc
+     1141 gacctgaaga gcacacagaa tgccattgac gagattacta acaaagtaaa ttctgttatt
+     1201 gaaaagatga atacacagtt cacagcagta ggtaaagagt tcaaccacct ggaaaaaaga
+     1261 atagagaatt taaataaaaa aattgatgat ggtttcctgg acatttggac ttacaatgca
+     1321 gaactgttgg ttctattgga aaatgaaaga actttggact accacgattc aaatgtgaag
+     1381 aacttatatg aaaaggtaag aagccagtta aaaaacaatg ccaaggaaat tggaaacggc
+     1441 tgctttgaat tttaccacaa atgcgataac acgtgcatgg aaagtgtcaa aaatgggact
+     1501 tatgactacc caaaatactc agaggaagca aaattaaaca gagaagaaat agatggggta
+     1561 aagctggaat caacaaggat ttaccagatt ttggcgatct attcaactgt cgccagttca
+     1621 ttggtactgg tagtctccct gggggcaatc agtttctgga tgtgctctaa tgggtctcta
+     1681 cagtgtagaa tatgtattta a
+//
+

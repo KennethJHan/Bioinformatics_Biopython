@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.8.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_20053</BlastOutput_query-ID>
+  <BlastOutput_query-def>blastSample</BlastOutput_query-def>
+  <BlastOutput_query-len>71</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_20053</Iteration_query-ID>
+  <Iteration_query-def>blastSample</Iteration_query-def>
+  <Iteration_query-len>71</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1069560151|dbj|LC120391.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8/1934(H1N1)) RNA, segment 4, complete sequence</Hit_def>
+  <Hit_accession>LC120391</Hit_accession>
+  <Hit_len>1777</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.2244</Hsp_bit-score>
+      <Hsp_score>82</Hsp_score>
+      <Hsp_evalue>1.49935e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>313</Hsp_hit-from>
+      <Hsp_hit-to>382</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAGCTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   |||||||  ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1377224823|gb|MH201222.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/PR/8_RGCDC-4,6/34(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>MH201222</Hit_accession>
+  <Hit_len>1753</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|672349362|gb|KM203353.1|</Hit_id>
+  <Hit_def>Synthetic Influenza A virus clone Bat-HAps-PR8-H1ss hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>KM203353</Hit_accession>
+  <Hit_len>1956</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>376</Hsp_hit-from>
+      <Hsp_hit-to>445</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|672349358|gb|KM203351.1|</Hit_id>
+  <Hit_def>Synthetic Influenza A virus clone Bat-HAps-PR8-H1 hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>KM203351</Hit_accession>
+  <Hit_len>1956</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>376</Hsp_hit-from>
+      <Hsp_hit-to>445</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|538118464|gb|CY148243.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY148243</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|523511820|gb|CY147534.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV14/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147534</Hit_accession>
+  <Hit_len>1701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|523511800|gb|CY147526.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV13/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147526</Hit_accession>
+  <Hit_len>1701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|523511780|gb|CY147518.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV11/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147518</Hit_accession>
+  <Hit_len>1701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|523511760|gb|CY147510.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV10/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147510</Hit_accession>
+  <Hit_len>1701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|523511740|gb|CY147502.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV9/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147502</Hit_accession>
+  <Hit_len>1701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|523511720|gb|CY147494.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147494</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|523511700|gb|CY147486.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV7/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147486</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|523511680|gb|CY147478.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV5/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147478</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|523511660|gb|CY147470.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV1/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY147470</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|512252213|gb|CY146889.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV20/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146889</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|512251462|gb|CY146881.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV10/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146881</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|512250596|gb|CY146873.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV120/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146873</Hit_accession>
+  <Hit_len>1701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|512249889|gb|CY146865.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV60/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146865</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|512248779|gb|CY146857.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV40/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146857</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|512247996|gb|CY146849.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV30/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146849</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|512246949|gb|CY146841.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV20/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146841</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|512246213|gb|CY146833.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-LVD3/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|523511620|gb|CY147454.1| Influenza A virus (A/Puerto Rico/8-LVD2/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146833</Hit_accession>
+  <Hit_len>1753</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|512245146|gb|CY146825.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-LVD1/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|523511640|gb|CY147462.1| Influenza A virus (A/Puerto Rico/8-LVD4/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146825</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|512244235|gb|CY146817.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/PAL/unknown(H1N2)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY146817</Hit_accession>
+  <Hit_len>1724</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>284</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|392339999|gb|CY121109.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY121109</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|390517087|emb|HE802058.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8/1934(H1N1)) viral cRNA for haemagglutinin (HA gene), segment 4, genomic RNA</Hit_def>
+  <Hit_accession>HE802058</Hit_accession>
+  <Hit_len>1774</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>313</Hsp_hit-from>
+      <Hsp_hit-to>382</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|372349581|gb|CY105943.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV13/1934(H1N1)) hemagglutinin (HA) gene, partial cds</Hit_def>
+  <Hit_accession>CY105943</Hit_accession>
+  <Hit_len>1697</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>272</Hsp_hit-from>
+      <Hsp_hit-to>341</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|372349564|gb|CY105935.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV11/1934(H1N1)) hemagglutinin (HA) gene, partial cds</Hit_def>
+  <Hit_accession>CY105935</Hit_accession>
+  <Hit_len>1637</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>212</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|372349548|gb|CY105928.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY105928</Hit_accession>
+  <Hit_len>1745</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>300</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|372349529|gb|CY105920.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV7/1934(H1N1)) hemagglutinin (HA) gene, partial cds</Hit_def>
+  <Hit_accession>CY105920</Hit_accession>
+  <Hit_len>1634</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>192</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|372349513|gb|CY105912.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV4/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY105912</Hit_accession>
+  <Hit_len>1720</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|372349496|gb|CY105904.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-SV2/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY105904</Hit_accession>
+  <Hit_len>1741</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>299</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|372349477|gb|CY105896.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY105896</Hit_accession>
+  <Hit_len>1742</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>300</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|347800407|dbj|AB671289.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8/1934(H1N1)) HA gene for hemagglutinin, complete cds</Hit_def>
+  <Hit_accession>AB671289</Hit_accession>
+  <Hit_len>1775</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>313</Hsp_hit-from>
+      <Hsp_hit-to>382</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|323697382|gb|CY084174.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084174</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|323697363|gb|CY084166.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV7/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084166</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|323697344|gb|CY084158.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV6/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084158</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|323697325|gb|CY084150.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV5/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084150</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|323697287|gb|CY084134.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV3/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|323697306|gb|CY084142.1| Influenza A virus (A/Puerto Rico/8-KV4/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084134</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|323697268|gb|CY084126.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV2/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084126</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|323697249|gb|CY084118.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-KV1/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084118</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|323696894|gb|CY084094.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-JV3/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084094</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|323696875|gb|CY084086.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-JV2/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084086</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|323696435|gb|CY084078.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-JV1/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|323696913|gb|CY084102.1| Influenza A virus (A/Puerto Rico/8-JV9/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|323696932|gb|CY084110.1| Influenza A virus (A/Puerto Rico/8-JV18/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084078</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|323696416|gb|CY084070.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV10/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084070</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|323696125|gb|CY084046.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV7/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084046</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|323696106|gb|CY084038.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV6/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|323696378|gb|CY084054.1| Influenza A virus (A/Puerto Rico/8-CV8/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084038</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|323696087|gb|CY084030.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV5/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084030</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|323696068|gb|CY084022.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV2/1934(H1N1)) hemagglutinin (HA) gene, complete cds &gt;gi|323696397|gb|CY084062.1| Influenza A virus (A/Puerto Rico/8-CV9/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084022</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|323696049|gb|CY084014.1|</Hit_id>
+  <Hit_def>Influenza A virus (A/Puerto Rico/8-CV1/1934(H1N1)) hemagglutinin (HA) gene, complete cds</Hit_def>
+  <Hit_accession>CY084014</Hit_accession>
+  <Hit_len>1750</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.82658e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>301</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>CCTACATAGTAGTTTCACCAAGGGCTGAGAATGGAATACACCATCCAGGAGATTTTCATCGACTATGAGGA</Hsp_qseq>
+      <Hsp_hseq>CCTACATTGTAGAAACACCAAACTCTGAGAATGGAATATGTTATCCAGGAGA-TTTCATCGACTATGAGGA</Hsp_hseq>
+      <Hsp_midline>||||||| ||||   ||||||   ||||||||||||||    |||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>47491174</Statistics_db-num>
+      <Statistics_db-len>84605095</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
