@@ -1,0 +1,1025 @@
+LOCUS       NM_000384              14121 bp    mRNA    linear   PRI 10-FEB-2019
+DEFINITION  Homo sapiens apolipoprotein B (APOB), mRNA.
+ACCESSION   NM_000384
+VERSION     NM_000384.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 14121)
+  AUTHORS   Batais MA, Almigbal TH, Shaik NA, Alharbi FK, Alharbi KK and Ali
+            Khan I.
+  TITLE     Screening of common genetic variants in the APOB gene related to
+            familial hypercholesterolemia in a Saudi population: A case-control
+            study
+  JOURNAL   Medicine (Baltimore) 98 (4), e14247 (2019)
+   PUBMED   30681615
+  REMARK    GeneRIF: We confirmed the association between the apolipoprotein B
+            rs151009667 polymorphism and Familial Hypercholesterolemia in a
+            Saudi population. The Val2095Glu novel variant did not appear in
+            either patients with Familial Hypercholesterolemia or controls.
+REFERENCE   2  (bases 1 to 14121)
+  AUTHORS   Sun D, Zhou BY, Li S, Sun NL, Hua Q, Wu SL, Cao YS, Guo YL, Wu NQ,
+            Zhu CG, Gao Y, Cui CJ, Liu G and Li JJ.
+  TITLE     Genetic basis of index patients with familial hypercholesterolemia
+            in Chinese population: mutation spectrum and genotype-phenotype
+            correlation
+  JOURNAL   Lipids Health Dis 17 (1), 252 (2018)
+   PUBMED   30400955
+  REMARK    GeneRIF: Mutation spectrum and genotype-phenotype correlation was
+            analyzed in patients with familial hypercholesterolemia in Chinese
+            population.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 14121)
+  AUTHORS   Long T, Lu S, Li H, Lin R, Qin Y, Li L, Chen L, Zhang L, Lv Y,
+            Liang D, Liang Y, Xie L, Yang H, Dong C and Zhang H.
+  TITLE     Association of APOB and LIPC polymorphisms with type 2 diabetes in
+            Chinese Han population
+  JOURNAL   Gene 672, 150-155 (2018)
+   PUBMED   29883758
+  REMARK    GeneRIF: APOB polymorphism rs679899 is associated with type 2
+            diabetes and glutamyl transpeptidase levels, while the LIPC
+            polymorphism rs6083 may influence plasma lipid levels in Chinese
+            Han population.
+REFERENCE   4  (bases 1 to 14121)
+  AUTHORS   Hao Y, Guo H, Xu Z, Qi H, Wang Y, Lu C, Liu J and Yuan P.
+  TITLE     The relationship between apolipoprotein genes polymorphisms and
+            susceptibility to osteonecrosis of the femoral head: a
+            meta-analysis
+  JOURNAL   Lipids Health Dis 17 (1), 192 (2018)
+   PUBMED   30119683
+  REMARK    GeneRIF: The objective of this study was to evaluate whether
+            apolipoprotein gene polymorphisms confer susceptibility to
+            osteonecrosis of the femoral head.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 14121)
+  AUTHORS   Youngblom,E., Pariani,M. and Knowles,J.W.
+  TITLE     Familial Hypercholesterolemia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   24404629
+REFERENCE   6  (bases 1 to 14121)
+  AUTHORS   Sehayek E and Eisenberg S.
+  TITLE     Mechanisms of inhibition by apolipoprotein C of apolipoprotein
+            E-dependent cellular metabolism of human triglyceride-rich
+            lipoproteins through the low density lipoprotein receptor pathway
+  JOURNAL   J. Biol. Chem. 266 (27), 18259-18267 (1991)
+   PUBMED   1917954
+REFERENCE   7  (bases 1 to 14121)
+  AUTHORS   Navajas M, Laurent AM, Moreel JF, Ragab A, Cambou JP, Cuny G,
+            Cambien F and Roizes G.
+  TITLE     Detection by denaturing gradient gel electrophoresis of a new
+            polymorphism in the apolipoprotein B gene
+  JOURNAL   Hum. Genet. 86 (1), 91-93 (1990)
+   PUBMED   1979313
+REFERENCE   8  (bases 1 to 14121)
+  AUTHORS   Huang LS, Gavish D and Breslow JL.
+  TITLE     Sequence polymorphism in the human apoB gene at position 8344
+  JOURNAL   Nucleic Acids Res. 18 (19), 5922 (1990)
+   PUBMED   2216805
+REFERENCE   9  (bases 1 to 14121)
+  AUTHORS   Yang CY, Kim TW, Weng SA, Lee BR, Yang ML and Gotto AM Jr.
+  TITLE     Isolation and characterization of sulfhydryl and disulfide peptides
+            of human apolipoprotein B-100
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 87 (14), 5523-5527 (1990)
+   PUBMED   2115173
+REFERENCE   10 (bases 1 to 14121)
+  AUTHORS   Higuchi K, Hospattankar AV, Law SW, Meglin N, Cortright J and
+            Brewer HB Jr.
+  TITLE     Human apolipoprotein B (apoB) mRNA: identification of two distinct
+            apoB mRNAs, an mRNA with the apoB-100 sequence and an apoB mRNA
+            containing a premature in-frame translational stop codon, in both
+            liver and intestine
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 85 (6), 1772-1776 (1988)
+   PUBMED   2450346
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from X04506.1, BC051278.1, J02610.1,
+            X04714.1 and AB208846.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 1, 2006 this sequence version replaced NM_000384.1.
+            
+            Summary: This gene product is the main apolipoprotein of
+            chylomicrons and low density lipoproteins. It occurs in plasma as
+            two main isoforms, apoB-48 and apoB-100: the former is synthesized
+            exclusively in the gut and the latter in the liver. The intestinal
+            and the hepatic forms of apoB are encoded by a single gene from a
+            single, very long mRNA. The two isoforms share a common N-terminal
+            sequence. The shorter apoB-48 protein is produced after RNA editing
+            of the apoB-100 transcript at residue 2180 (CAA->UAA), resulting in
+            the creation of a stop codon, and early translation termination.
+            Mutations in this gene or its regulatory region cause
+            hypobetalipoproteinemia, normotriglyceridemic
+            hypobetalipoproteinemia, and hypercholesterolemia due to
+            ligand-defective apoB, diseases affecting plasma cholesterol and
+            apoB levels. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X04506.1, J02610.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN04284274 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            undergoes RNA editing :: PMID: 16920700, 11727199
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-946               X04506.1           1-946
+            947-2532            BC051278.1         827-2412
+            2533-3779           X04506.1           2533-3779
+            3780-7063           J02610.1           3730-7013
+            7064-7306           X04714.1           7055-7297
+            7307-7672           J02610.1           7257-7622
+            7673-7744           X04714.1           7664-7735
+            7745-11754          J02610.1           7695-11704
+            11755-13568         AB208846.1         2785-4598
+            13569-14121         X04506.1           13569-14121
+FEATURES             Location/Qualifiers
+     source          1..14121
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2p24.1"
+     gene            1..14121
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="apolipoprotein B"
+                     /db_xref="GeneID:338"
+                     /db_xref="HGNC:HGNC:603"
+                     /db_xref="MIM:107730"
+     exon            1..210
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    24..26
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="upstream in-frame stop codon"
+     CDS             129..13820
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="apolipoprotein B-100; apolipoprotein B48;
+                     apolipoprotein B (including Ag(x) antigen)"
+                     /codon_start=1
+                     /product="apolipoprotein B-100 precursor"
+                     /protein_id="NP_000375.2"
+                     /db_xref="CCDS:CCDS1703.1"
+                     /db_xref="GeneID:338"
+                     /db_xref="HGNC:HGNC:603"
+                     /db_xref="MIM:107730"
+                     /translation="MDPPRPALLALLALPALLLLLLAGARAEEEMLENVSLVCPKDAT
+                     RFKHLRKYTYNYEAESSSGVPGTADSRSATRINCKVELEVPQLCSFILKTSQCTLKEV
+                     YGFNPEGKALLKKTKNSEEFAAAMSRYELKLAIPEGKQVFLYPEKDEPTYILNIKRGI
+                     ISALLVPPETEEAKQVLFLDTVYGNCSTHFTVKTRKGNVATEISTERDLGQCDRFKPI
+                     RTGISPLALIKGMTRPLSTLISSSQSCQYTLDAKRKHVAEAICKEQHLFLPFSYKNKY
+                     GMVAQVTQTLKLEDTPKINSRFFGEGTKKMGLAFESTKSTSPPKQAEAVLKTLQELKK
+                     LTISEQNIQRANLFNKLVTELRGLSDEAVTSLLPQLIEVSSPITLQALVQCGQPQCST
+                     HILQWLKRVHANPLLIDVVTYLVALIPEPSAQQLREIFNMARDQRSRATLYALSHAVN
+                     NYHKTNPTGTQELLDIANYLMEQIQDDCTGDEDYTYLILRVIGNMGQTMEQLTPELKS
+                     SILKCVQSTKPSLMIQKAAIQALRKMEPKDKDQEVLLQTFLDDASPGDKRLAAYLMLM
+                     RSPSQADINKIVQILPWEQNEQVKNFVASHIANILNSEELDIQDLKKLVKEALKESQL
+                     PTVMDFRKFSRNYQLYKSVSLPSLDPASAKIEGNLIFDPNNYLPKESMLKTTLTAFGF
+                     ASADLIEIGLEGKGFEPTLEALFGKQGFFPDSVNKALYWVNGQVPDGVSKVLVDHFGY
+                     TKDDKHEQDMVNGIMLSVEKLIKDLKSKEVPEARAYLRILGEELGFASLHDLQLLGKL
+                     LLMGARTLQGIPQMIGEVIRKGSKNDFFLHYIFMENAFELPTGAGLQLQISSSGVIAP
+                     GAKAGVKLEVANMQAELVAKPSVSVEFVTNMGIIIPDFARSGVQMNTNFFHESGLEAH
+                     VALKAGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKTEVIPPLIENRQSWSVCKQVFPG
+                     LNYCTSGAYSNASSTDSASYYPLTGDTRLELELRPTGEIEQYSVSATYELQREDRALV
+                     DTLKFVTQAEGAKQTEATMTFKYNRQSMTLSSEVQIPDFDVDLGTILRVNDESTEGKT
+                     SYRLTLDIQNKKITEVALMGHLSCDTKEERKIKGVISIPRLQAEARSEILAHWSPAKL
+                     LLQMDSSATAYGSTVSKRVAWHYDEEKIEFEWNTGTNVDTKKMTSNFPVDLSDYPKSL
+                     HMYANRLLDHRVPQTDMTFRHVGSKLIVAMSSWLQKASGSLPYTQTLQDHLNSLKEFN
+                     LQNMGLPDFHIPENLFLKSDGRVKYTLNKNSLKIEIPLPFGGKSSRDLKMLETVRTPA
+                     LHFKSVGFHLPSREFQVPTFTIPKLYQLQVPLLGVLDLSTNVYSNLYNWSASYSGGNT
+                     STDHFSLRARYHMKADSVVDLLSYNVQGSGETTYDHKNTFTLSCDGSLRHKFLDSNIK
+                     FSHVEKLGNNPVSKGLLIFDASSSWGPQMSASVHLDSKKKQHLFVKEVKIDGQFRVSS
+                     FYAKGTYGLSCQRDPNTGRLNGESNLRFNSSYLQGTNQITGRYEDGTLSLTSTSDLQS
+                     GIIKNTASLKYENYELTLKSDTNGKYKNFATSNKMDMTFSKQNALLRSEYQADYESLR
+                     FFSLLSGSLNSHGLELNADILGTDKINSGAHKATLRIGQDGISTSATTNLKCSLLVLE
+                     NELNAELGLSGASMKLTTNGRFREHNAKFSLDGKAALTELSLGSAYQAMILGVDSKNI
+                     FNFKVSQEGLKLSNDMMGSYAEMKFDHTNSLNIAGLSLDFSSKLDNIYSSDKFYKQTV
+                     NLQLQPYSLVTTLNSDLKYNALDLTNNGKLRLEPLKLHVAGNLKGAYQNNEIKHIYAI
+                     SSAALSASYKADTVAKVQGVEFSHRLNTDIAGLASAIDMSTNYNSDSLHFSNVFRSVM
+                     APFTMTIDAHTNGNGKLALWGEHTGQLYSKFLLKAEPLAFTFSHDYKGSTSHHLVSRK
+                     SISAALEHKVSALLTPAEQTGTWKLKTQFNNNEYSQDLDAYNTKDKIGVELTGRTLAD
+                     LTLLDSPIKVPLLLSEPINIIDALEMRDAVEKPQEFTIVAFVKYDKNQDVHSINLPFF
+                     ETLQEYFERNRQTIIVVLENVQRNLKHINIDQFVRKYRAALGKLPQQANDYLNSFNWE
+                     RQVSHAKEKLTALTKKYRITENDIQIALDDAKINFNEKLSQLQTYMIQFDQYIKDSYD
+                     LHDLKIAIANIIDEIIEKLKSLDEHYHIRVNLVKTIHDLHLFIENIDFNKSGSSTASW
+                     IQNVDTKYQIRIQIQEKLQQLKRHIQNIDIQHLAGKLKQHIEAIDVRVLLDQLGTTIS
+                     FERINDVLEHVKHFVINLIGDFEVAEKINAFRAKVHELIERYEVDQQIQVLMDKLVEL
+                     AHQYKLKETIQKLSNVLQQVKIKDYFEKLVGFIDDAVKKLNELSFKTFIEDVNKFLDM
+                     LIKKLKSFDYHQFVDETNDKIREVTQRLNGEIQALELPQKAEALKLFLEETKATVAVY
+                     LESLQDTKITLIINWLQEALSSASLAHMKAKFRETLEDTRDRMYQMDIQQELQRYLSL
+                     VGQVYSTLVTYISDWWTLAAKNLTDFAEQYSIQDWAKRMKALVEQGFTVPEIKTILGT
+                     MPAFEVSLQALQKATFQTPDFIVPLTDLRIPSVQINFKDLKNIKIPSRFSTPEFTILN
+                     TFHIPSFTIDFVEMKVKIIRTIDQMLNSELQWPVPDIYLRDLKVEDIPLARITLPDFR
+                     LPEIAIPEFIIPTLNLNDFQVPDLHIPEFQLPHISHTIEVPTFGKLYSILKIQSPLFT
+                     LDANADIGNGTTSANEAGIAASITAKGESKLEVLNFDFQANAQLSNPKINPLALKESV
+                     KFSSKYLRTEHGSEMLFFGNAIEGKSNTVASLHTEKNTLELSNGVIVKINNQLTLDSN
+                     TKYFHKLNIPKLDFSSQADLRNEIKTLLKAGHIAWTSSGKGSWKWACPRFSDEGTHES
+                     QISFTIEGPLTSFGLSNKINSKHLRVNQNLVYESGSLNFSKLEIQSQVDSQHVGHSVL
+                     TAKGMALFGEGKAEFTGRHDAHLNGKVIGTLKNSLFFSAQPFEITASTNNEGNLKVRF
+                     PLRLTGKIDFLNNYALFLSPSAQQASWQVSARFNQYKYNQNFSAGNNENIMEAHVGIN
+                     GEANLDFLNIPLTIPEMRLPYTIITTPPLKDFSLWEKTGLKEFLKTTKQSFDLSVKAQ
+                     YKKNKHRHSITNPLAVLCEFISQSIKSFDRHFEKNRNNALDFVTKSYNETKIKFDKYK
+                     AEKSHDELPRTFQIPGYTVPVVNVEVSPFTIEMSAFGYVFPKAVSMPSFSILGSDVRV
+                     PSYTLILPSLELPVLHVPRNLKLSLPDFKELCTISHIFIPAMGNITYDFSFKSSVITL
+                     NTNAELFNQSDIVAHLLSSSSSVIDALQYKLEGTTRLTRKRGLKLATALSLSNKFVEG
+                     SHNSTVSLTTKNMEVSVATTTKAQIPILRMNFKQELNGNTKSKPTVSSSMEFKYDFNS
+                     SMLYSTAKGAVDHKLSLESLTSYFSIESSTKGDVKGSVLSREYSGTIASEANTYLNSK
+                     STRSSVKLQGTSKIDDIWNLEVKENFAGEATLQRIYSLWEHSTKNHLQLEGLFFTNGE
+                     HTSKATLELSPWQMSALVQVHASQPSSFHDFPDLGQEVALNANTKNQKIRWKNEVRIH
+                     SGSFQSQVELSNDQEKAHLDIAGSLEGHLRFLKNIILPVYDKSLWDFLKLDVTTSIGR
+                     RQHLRVSTAFVYTKNPNGYSFSIPVKVLADKFIIPGLKLNDLNSVLVMPTFHVPFTDL
+                     QVPSCKLDFREIQIYKKLRTSSFALNLPTLPEVKFPEVDVLTKYSQPEDSLIPFFEIT
+                     VPESQLTVSQFTLPKSVSDGIAALDLNAVANKIADFELPTIIVPEQTIEIPSIKFSVP
+                     AGIVIPSFQALTARFEVDSPVYNATWSASLKNKADYVETVLDSTCSSTVQFLEYELNV
+                     LGTHKIEDGTLASKTKGTFAHRDFSAEYEEDGKYEGLQEWEGKAHLNIKSPAFTDLHL
+                     RYQKDKKGISTSAASPAVGTVGMDMDEDDDFSKWNFYYSPQSSPDKKLTIFKTELRVR
+                     ESDEETQIKVNWEEEAASGLLTSLKDNVPKATGVLYDYVNKYHWEHTGLTLREVSSKL
+                     RRNLQNNAEWVYQGAIRQIDDIDVRFQKAASGTTGTYQEWKDKAQNLYQELLTQEGQA
+                     SFQGLKDNVFDGLVRVTQEFHMKVKHLIDSLIDFLNFPRFQFPGKPGIYTREELCTMF
+                     IREVGTVLSQVYSKVHNGSEILFSYFQDLVITLPFELRKHKLIDVISMYRELLKDLSK
+                     EAQEVFKAIQSLKTTEVLRNLQDLLQFIFQLIEDNIKQLKEMKFTYLINYIQDEINTI
+                     FSDYIPYVFKLLKENLCLNLHKFNEFIQNELQEASQELQQIHQYIMALREEYFDPSIV
+                     GWTVKYYELEEKIVSLIKNLLVALKDFHSEYIVSASNFTSQLSSQVEQFLHRNIQEYL
+                     SILTDPDGKGKEKIAELSATAQEIIKSQAIATKKIISDYHQQFRYKLQDFSDQLSDYY
+                     EKFIAESKRLIDLSIQNYHTFLIYITELLKKLQSTTVMNPYMKLAPGELTIIL"
+     sig_peptide     129..209
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     210..13817
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /product="apolipoprotein B-100"
+     mat_peptide     210..6665
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /product="apolipoprotein B-48"
+                     /note="The intestinal-specific RNA editing of codon 2180
+                     (CAA->UAA) creates a stop codon, resulting in early
+                     translation termination"
+     misc_feature    222..506
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Heparin-binding"
+     misc_feature    228..230
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     glycosylation site"
+     misc_feature    join(243..245,390..392)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    join(360..362,417..419)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    681..683
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="glycosylation site"
+     misc_feature    join(684..686,762..764)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    822..1046
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Heparin-binding"
+     misc_feature    join(861..863,909..911)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    join(1281..1283,1296..1298)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    join(1560..1562,1665..1667)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    2832..3005
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Heparin-binding"
+     misc_feature    join(3024..3026,3054..3056)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    3075..3077
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="glycosylation site"
+     misc_feature    3462..3464
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="polmitoylation site; modified site"
+     misc_feature    4230..4232
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="glycosylation site"
+     misc_feature    4257..4259
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="glycosylation site"
+     misc_feature    4695..4697
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="glycosylation site"
+     misc_feature    6138..6140
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     acetylation site"
+     misc_feature    6255..6662
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Heparin-binding"
+     misc_feature    6666..6668
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="apoB-48, residue Gln(2180) is modified by RNA
+                     editing from CAA to a stop codon UAA; Region: apoB-48 site
+                     of RNA editing"
+     misc_feature    6843..6845
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    7806..7808
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     glycosylation site"
+     misc_feature    8463..8465
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    9072..9074
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:16335952,
+                     ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    9429..9431
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    9609..9836
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Heparin-binding"
+     misc_feature    9648..9680
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Basic (possible receptor binding region)"
+     misc_feature    join(9708..9710,10098..10100)
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="disulfide bond"
+     misc_feature    9798..9800
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    9963..9965
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     phosphorylation site"
+     misc_feature    10134..10136
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     glycosylation site"
+     misc_feature    10200..10202
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="glycosylation site"
+     misc_feature    10245..10307
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: LDL receptor binding"
+     misc_feature    10275..10676
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Heparin-binding"
+     misc_feature    10284..10310
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     Region: Basic (possible receptor binding region)"
+     misc_feature    10359..10361
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    10521..10523
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:16335952,
+                     ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    11811..11813
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     {ECO:0000269|PubMed:16335952,
+                     ECO:0000269|PubMed:19159218}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); glycosylation site"
+     misc_feature    12270..12272
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by FAM20C.
+                     {ECO:0000244|PubMed:24275569,
+                     ECO:0000269|PubMed:26091039}; propagated from
+                     UniProtKB/Swiss-Prot (P04114.2); phosphorylation site"
+     misc_feature    12282..12284
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     phosphorylation site"
+     misc_feature    12837..12839
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     glycosylation site"
+     misc_feature    13419..13421
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (GlcNAc...) asparagine. {ECO:0000255};
+                     propagated from UniProtKB/Swiss-Prot (P04114.2);
+                     glycosylation site"
+     exon            211..249
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            250..365
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..511
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            512..665
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            666..821
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            822..946
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            947..1032
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1033..1252
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1253..1480
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1481..1598
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1599..1745
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1746..1957
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1958..2195
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2196..2372
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2373..2564
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2565..2732
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2733..2944
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2945..3127
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3128..3249
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3250..3460
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             3301..3430
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH68521"
+                     /db_xref="UniSTS:21794"
+     exon            3461..3636
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3637..3824
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3825..3970
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3971..4344
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             4072..4256
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:177076"
+                     /db_xref="UniSTS:154826"
+     exon            4345..11916
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             4359..5707
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:631915"
+                     /db_xref="UniSTS:158444"
+     STS             5387..5577
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH45452"
+                     /db_xref="UniSTS:62271"
+     STS             5641..7007
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:681390"
+                     /db_xref="UniSTS:158620"
+     STS             6027..6175
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH69778"
+                     /db_xref="UniSTS:64981"
+     STS             6076..6653
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:177207"
+                     /db_xref="UniSTS:154838"
+     STS             6761..7086
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="D2S2589"
+                     /db_xref="UniSTS:68980"
+     STS             7241..7950
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:185253"
+                     /db_xref="UniSTS:155441"
+     STS             7562..7811
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="G44341"
+                     /db_xref="UniSTS:95128"
+     STS             7591..7809
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:177093"
+                     /db_xref="UniSTS:154830"
+     STS             8502..8625
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH70400"
+                     /db_xref="UniSTS:72471"
+     STS             8560..8709
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="SHGC-33670"
+                     /db_xref="UniSTS:55948"
+     STS             9668..9847
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH80663"
+                     /db_xref="UniSTS:89102"
+     STS             10152..10783
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="APOB"
+                     /db_xref="UniSTS:266032"
+     STS             11627..11761
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="SHGC-33615"
+                     /db_xref="UniSTS:51496"
+     exon            11917..12031
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            12032..12215
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             12053..12203
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="SHGC-34591"
+                     /db_xref="UniSTS:56355"
+     exon            12216..14121
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             12314..12485
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH70147"
+                     /db_xref="UniSTS:14246"
+     STS             12319..13243
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:178354"
+                     /db_xref="UniSTS:154987"
+     STS             12417..12896
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:185254"
+                     /db_xref="UniSTS:155442"
+     STS             12585..13379
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:185282"
+                     /db_xref="UniSTS:155444"
+     STS             12650..12944
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:182191"
+                     /db_xref="UniSTS:155360"
+     STS             13520..13807
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="GDB:181235"
+                     /db_xref="UniSTS:155203"
+     STS             13744..13930
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="RH69077"
+                     /db_xref="UniSTS:69261"
+     STS             13778..13960
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /standard_name="D2S2580"
+                     /db_xref="UniSTS:58171"
+     regulatory      14093..14098
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+     polyA_site      14121
+                     /gene="APOB"
+                     /gene_synonym="apoB-100; apoB-48; FLDB; LDLCQ4"
+                     /note="polyA site"
+ORIGIN      
+        1 attcccaccg ggacctgcgg ggctgagtgc ccttctcggt tgctgccgct gaggagcccg
+       61 cccagccagc cagggccgcg aggccgaggc caggccgcag cccaggagcc gccccaccgc
+      121 agctggcgat ggacccgccg aggcccgcgc tgctggcgct gctggcgctg cctgcgctgc
+      181 tgctgctgct gctggcgggc gccagggccg aagaggaaat gctggaaaat gtcagcctgg
+      241 tctgtccaaa agatgcgacc cgattcaagc acctccggaa gtacacatac aactatgagg
+      301 ctgagagttc cagtggagtc cctgggactg ctgattcaag aagtgccacc aggatcaact
+      361 gcaaggttga gctggaggtt ccccagctct gcagcttcat cctgaagacc agccagtgca
+      421 ccctgaaaga ggtgtatggc ttcaaccctg agggcaaagc cttgctgaag aaaaccaaga
+      481 actctgagga gtttgctgca gccatgtcca ggtatgagct caagctggcc attccagaag
+      541 ggaagcaggt tttcctttac ccggagaaag atgaacctac ttacatcctg aacatcaaga
+      601 ggggcatcat ttctgccctc ctggttcccc cagagacaga agaagccaag caagtgttgt
+      661 ttctggatac cgtgtatgga aactgctcca ctcactttac cgtcaagacg aggaagggca
+      721 atgtggcaac agaaatatcc actgaaagag acctggggca gtgtgatcgc ttcaagccca
+      781 tccgcacagg catcagccca cttgctctca tcaaaggcat gacccgcccc ttgtcaactc
+      841 tgatcagcag cagccagtcc tgtcagtaca cactggacgc taagaggaag catgtggcag
+      901 aagccatctg caaggagcaa cacctcttcc tgcctttctc ctacaagaat aagtatggga
+      961 tggtagcaca agtgacacag actttgaaac ttgaagacac accaaagatc aacagccgct
+     1021 tctttggtga aggtactaag aagatgggcc tcgcatttga gagcaccaaa tccacatcac
+     1081 ctccaaagca ggccgaagct gttttgaaga ctctccagga actgaaaaaa ctaaccatct
+     1141 ctgagcaaaa tatccagaga gctaatctct tcaataagct ggttactgag ctgagaggcc
+     1201 tcagtgatga agcagtcaca tctctcttgc cacagctgat tgaggtgtcc agccccatca
+     1261 ctttacaagc cttggttcag tgtggacagc ctcagtgctc cactcacatc ctccagtggc
+     1321 tgaaacgtgt gcatgccaac ccccttctga tagatgtggt cacctacctg gtggccctga
+     1381 tccccgagcc ctcagcacag cagctgcgag agatcttcaa catggcgagg gatcagcgca
+     1441 gccgagccac cttgtatgcg ctgagccacg cggtcaacaa ctatcataag acaaacccta
+     1501 cagggaccca ggagctgctg gacattgcta attacctgat ggaacagatt caagatgact
+     1561 gcactgggga tgaagattac acctatttga ttctgcgggt cattggaaat atgggccaaa
+     1621 ccatggagca gttaactcca gaactcaagt cttcaatcct gaaatgtgtc caaagtacaa
+     1681 agccatcact gatgatccag aaagctgcca tccaggctct gcggaaaatg gagcctaaag
+     1741 acaaggacca ggaggttctt cttcagactt tccttgatga tgcttctccg ggagataagc
+     1801 gactggctgc ctatcttatg ttgatgagga gtccttcaca ggcagatatt aacaaaattg
+     1861 tccaaattct accatgggaa cagaatgagc aagtgaagaa ctttgtggct tcccatattg
+     1921 ccaatatctt gaactcagaa gaattggata tccaagatct gaaaaagtta gtgaaagaag
+     1981 ctctgaaaga atctcaactt ccaactgtca tggacttcag aaaattctct cggaactatc
+     2041 aactctacaa atctgtttct cttccatcac ttgacccagc ctcagccaaa atagaaggga
+     2101 atcttatatt tgatccaaat aactaccttc ctaaagaaag catgctgaaa actaccctca
+     2161 ctgcctttgg atttgcttca gctgacctca tcgagattgg cttggaagga aaaggctttg
+     2221 agccaacatt ggaagctctt tttgggaagc aaggattttt cccagacagt gtcaacaaag
+     2281 ctttgtactg ggttaatggt caagttcctg atggtgtctc taaggtctta gtggaccact
+     2341 ttggctatac caaagatgat aaacatgagc aggatatggt aaatggaata atgctcagtg
+     2401 ttgagaagct gattaaagat ttgaaatcca aagaagtccc ggaagccaga gcctacctcc
+     2461 gcatcttggg agaggagctt ggttttgcca gtctccatga cctccagctc ctgggaaagc
+     2521 tgcttctgat gggtgcccgc actctgcagg ggatccccca gatgattgga gaggtcatca
+     2581 ggaagggctc aaagaatgac ttttttcttc actacatctt catggagaat gcctttgaac
+     2641 tccccactgg agctggatta cagttgcaaa tatcttcatc tggagtcatt gctcccggag
+     2701 ccaaggctgg agtaaaactg gaagtagcca acatgcaggc tgaactggtg gcaaaaccct
+     2761 ccgtgtctgt ggagtttgtg acaaatatgg gcatcatcat tccggacttc gctaggagtg
+     2821 gggtccagat gaacaccaac ttcttccacg agtcgggtct ggaggctcat gttgccctaa
+     2881 aagctgggaa gctgaagttt atcattcctt ccccaaagag accagtcaag ctgctcagtg
+     2941 gaggcaacac attacatttg gtctctacca ccaaaacgga ggtgatccca cctctcattg
+     3001 agaacaggca gtcctggtca gtttgcaagc aagtctttcc tggcctgaat tactgcacct
+     3061 caggcgctta ctccaacgcc agctccacag actccgcctc ctactatccg ctgaccgggg
+     3121 acaccagatt agagctggaa ctgaggccta caggagagat tgagcagtat tctgtcagcg
+     3181 caacctatga gctccagaga gaggacagag ccttggtgga taccctgaag tttgtaactc
+     3241 aagcagaagg tgcgaagcag actgaggcta ccatgacatt caaatataat cggcagagta
+     3301 tgaccttgtc cagtgaagtc caaattccgg attttgatgt tgacctcgga acaatcctca
+     3361 gagttaatga tgaatctact gagggcaaaa cgtcttacag actcaccctg gacattcaga
+     3421 acaagaaaat tactgaggtc gccctcatgg gccacctaag ttgtgacaca aaggaagaaa
+     3481 gaaaaatcaa gggtgttatt tccatacccc gtttgcaagc agaagccaga agtgagatcc
+     3541 tcgcccactg gtcgcctgcc aaactgcttc tccaaatgga ctcatctgct acagcttatg
+     3601 gctccacagt ttccaagagg gtggcatggc attatgatga agagaagatt gaatttgaat
+     3661 ggaacacagg caccaatgta gataccaaaa aaatgacttc caatttccct gtggatctct
+     3721 ccgattatcc taagagcttg catatgtatg ctaatagact cctggatcac agagtccctc
+     3781 aaacagacat gactttccgg cacgtgggtt ccaaattaat agttgcaatg agctcatggc
+     3841 ttcagaaggc atctgggagt cttccttata cccagacttt gcaagaccac ctcaatagcc
+     3901 tgaaggagtt caacctccag aacatgggat tgccagactt ccacatccca gaaaacctct
+     3961 tcttaaaaag cgatggccgg gtcaaatata ccttgaacaa gaacagtttg aaaattgaga
+     4021 ttcctttgcc ttttggtggc aaatcctcca gagatctaaa gatgttagag actgttagga
+     4081 caccagccct ccacttcaag tctgtgggat tccatctgcc atctcgagag ttccaagtcc
+     4141 ctacttttac cattcccaag ttgtatcaac tgcaagtgcc tctcctgggt gttctagacc
+     4201 tctccacgaa tgtctacagc aacttgtaca actggtccgc ctcctacagt ggtggcaaca
+     4261 ccagcacaga ccatttcagc cttcgggctc gttaccacat gaaggctgac tctgtggttg
+     4321 acctgctttc ctacaatgtg caaggatctg gagaaacaac atatgaccac aagaatacgt
+     4381 tcacactatc atgtgatggg tctctacgcc acaaatttct agattcgaat atcaaattca
+     4441 gtcatgtaga aaaacttgga aacaacccag tctcaaaagg tttactaata ttcgatgcat
+     4501 ctagttcctg gggaccacag atgtctgctt cagttcattt ggactccaaa aagaaacagc
+     4561 atttgtttgt caaagaagtc aagattgatg ggcagttcag agtctcttcg ttctatgcta
+     4621 aaggcacata tggcctgtct tgtcagaggg atcctaacac tggccggctc aatggagagt
+     4681 ccaacctgag gtttaactcc tcctacctcc aaggcaccaa ccagataaca ggaagatatg
+     4741 aagatggaac cctctccctc acctccacct ctgatctgca aagtggcatc attaaaaata
+     4801 ctgcttccct aaagtatgag aactacgagc tgactttaaa atctgacacc aatgggaagt
+     4861 ataagaactt tgccacttct aacaagatgg atatgacctt ctctaagcaa aatgcactgc
+     4921 tgcgttctga atatcaggct gattacgagt cattgaggtt cttcagcctg ctttctggat
+     4981 cactaaattc ccatggtctt gagttaaatg ctgacatctt aggcactgac aaaattaata
+     5041 gtggtgctca caaggcgaca ctaaggattg gccaagatgg aatatctacc agtgcaacga
+     5101 ccaacttgaa gtgtagtctc ctggtgctgg agaatgagct gaatgcagag cttggcctct
+     5161 ctggggcatc tatgaaatta acaacaaatg gccgcttcag ggaacacaat gcaaaattca
+     5221 gtctggatgg gaaagccgcc ctcacagagc tatcactggg aagtgcttat caggccatga
+     5281 ttctgggtgt cgacagcaaa aacattttca acttcaaggt cagtcaagaa ggacttaagc
+     5341 tctcaaatga catgatgggc tcatatgctg aaatgaaatt tgaccacaca aacagtctga
+     5401 acattgcagg cttatcactg gacttctctt caaaacttga caacatttac agctctgaca
+     5461 agttttataa gcaaactgtt aatttacagc tacagcccta ttctctggta actactttaa
+     5521 acagtgacct gaaatacaat gctctggatc tcaccaacaa tgggaaacta cggctagaac
+     5581 ccctgaagct gcatgtggct ggtaacctaa aaggagccta ccaaaataat gaaataaaac
+     5641 acatctatgc catctcttct gctgccttat cagcaagcta taaagcagac actgttgcta
+     5701 aggttcaggg tgtggagttt agccatcggc tcaacacaga catcgctggg ctggcttcag
+     5761 ccattgacat gagcacaaac tataattcag actcactgca tttcagcaat gtcttccgtt
+     5821 ctgtaatggc cccgtttacc atgaccatcg atgcacatac aaatggcaat gggaaactcg
+     5881 ctctctgggg agaacatact gggcagctgt atagcaaatt cctgttgaaa gcagaacctc
+     5941 tggcatttac tttctctcat gattacaaag gctccacaag tcatcatctc gtgtctagga
+     6001 aaagcatcag tgcagctctt gaacacaaag tcagtgccct gcttactcca gctgagcaga
+     6061 caggcacctg gaaactcaag acccaattta acaacaatga atacagccag gacttggatg
+     6121 cttacaacac taaagataaa attggcgtgg agcttactgg acgaactctg gctgacctaa
+     6181 ctctactaga ctccccaatt aaagtgccac ttttactcag tgagcccatc aatatcattg
+     6241 atgctttaga gatgagagat gccgttgaga agccccaaga atttacaatt gttgcttttg
+     6301 taaagtatga taaaaaccaa gatgttcact ccattaacct cccatttttt gagaccttgc
+     6361 aagaatattt tgagaggaat cgacaaacca ttatagttgt actggaaaac gtacagagaa
+     6421 acctgaagca catcaatatt gatcaatttg taagaaaata cagagcagcc ctgggaaaac
+     6481 tcccacagca agctaatgat tatctgaatt cattcaattg ggagagacaa gtttcacatg
+     6541 ccaaggagaa actgactgct ctcacaaaaa agtatagaat tacagaaaat gatatacaaa
+     6601 ttgcattaga tgatgccaaa atcaacttta atgaaaaact atctcaactg cagacatata
+     6661 tgatacaatt tgatcagtat attaaagata gttatgattt acatgatttg aaaatagcta
+     6721 ttgctaatat tattgatgaa atcattgaaa aattaaaaag tcttgatgag cactatcata
+     6781 tccgtgtaaa tttagtaaaa acaatccatg atctacattt gtttattgaa aatattgatt
+     6841 ttaacaaaag tggaagtagt actgcatcct ggattcaaaa tgtggatact aagtaccaaa
+     6901 tcagaatcca gatacaagaa aaactgcagc agcttaagag acacatacag aatatagaca
+     6961 tccagcacct agctggaaag ttaaaacaac acattgaggc tattgatgtt agagtgcttt
+     7021 tagatcaatt gggaactaca atttcatttg aaagaataaa tgacgttctt gagcatgtca
+     7081 aacactttgt tataaatctt attggggatt ttgaagtagc tgagaaaatc aatgccttca
+     7141 gagccaaagt ccatgagtta atcgagaggt atgaagtaga ccaacaaatc caggttttaa
+     7201 tggataaatt agtagagttg gcccaccaat acaagttgaa ggagactatt cagaagctaa
+     7261 gcaatgtcct acaacaagtt aagataaaag attactttga gaaattggtt ggatttattg
+     7321 atgatgctgt caagaagctt aatgaattat cttttaaaac attcattgaa gatgttaaca
+     7381 aattccttga catgttgata aagaaattaa agtcatttga ttaccaccag tttgtagatg
+     7441 aaaccaatga caaaatccgt gaggtgactc agagactcaa tggtgaaatt caggctctgg
+     7501 aactaccaca aaaagctgaa gcattaaaac tgtttttaga ggaaaccaag gccacagttg
+     7561 cagtgtatct ggaaagccta caggacacca aaataacctt aatcatcaat tggttacagg
+     7621 aggctttaag ttcagcatct ttggctcaca tgaaggccaa attccgagag accctagaag
+     7681 atacacgaga ccgaatgtat caaatggaca ttcagcagga acttcaacga tacctgtctc
+     7741 tggtaggcca ggtttatagc acacttgtca cctacatttc tgattggtgg actcttgctg
+     7801 ctaagaacct tactgacttt gcagagcaat attctatcca agattgggct aaacgtatga
+     7861 aagcattggt agagcaaggg ttcactgttc ctgaaatcaa gaccatcctt gggaccatgc
+     7921 ctgcctttga agtcagtctt caggctcttc agaaagctac cttccagaca cctgatttta
+     7981 tagtccccct aacagatttg aggattccat cagttcagat aaacttcaaa gacttaaaaa
+     8041 atataaaaat cccatccagg ttttccacac cagaatttac catccttaac accttccaca
+     8101 ttccttcctt tacaattgac tttgtagaaa tgaaagtaaa gatcatcaga accattgacc
+     8161 agatgctgaa cagtgagctg cagtggcccg ttccagatat atatctcagg gatctgaagg
+     8221 tggaggacat tcctctagcg agaatcaccc tgccagactt ccgtttacca gaaatcgcaa
+     8281 ttccagaatt cataatccca actctcaacc ttaatgattt tcaagttcct gaccttcaca
+     8341 taccagaatt ccagcttccc cacatctcac acacaattga agtacctact tttggcaagc
+     8401 tatacagtat tctgaaaatc caatctcctc ttttcacatt agatgcaaat gctgacatag
+     8461 ggaatggaac cacctcagca aacgaagcag gtatcgcagc ttccatcact gccaaaggag
+     8521 agtccaaatt agaagttctc aattttgatt ttcaagcaaa tgcacaactc tcaaacccta
+     8581 agattaatcc gctggctctg aaggagtcag tgaagttctc cagcaagtac ctgagaacgg
+     8641 agcatgggag tgaaatgctg ttttttggaa atgctattga gggaaaatca aacacagtgg
+     8701 caagtttaca cacagaaaaa aatacactgg agcttagtaa tggagtgatt gtcaagataa
+     8761 acaatcagct taccctggat agcaacacta aatacttcca caaattgaac atccccaaac
+     8821 tggacttctc tagtcaggct gacctgcgca acgagatcaa gacactgttg aaagctggcc
+     8881 acatagcatg gacttcttct ggaaaagggt catggaaatg ggcctgcccc agattctcag
+     8941 atgagggaac acatgaatca caaattagtt tcaccataga aggacccctc acttcctttg
+     9001 gactgtccaa taagatcaat agcaaacacc taagagtaaa ccaaaacttg gtttatgaat
+     9061 ctggctccct caacttttct aaacttgaaa ttcaatcaca agtcgattcc cagcatgtgg
+     9121 gccacagtgt tctaactgct aaaggcatgg cactgtttgg agaagggaag gcagagttta
+     9181 ctgggaggca tgatgctcat ttaaatggaa aggttattgg aactttgaaa aattctcttt
+     9241 tcttttcagc ccagccattt gagatcacgg catccacaaa caatgaaggg aatttgaaag
+     9301 ttcgttttcc attaaggtta acagggaaga tagacttcct gaataactat gcactgtttc
+     9361 tgagtcccag tgcccagcaa gcaagttggc aagtaagtgc taggttcaat cagtataagt
+     9421 acaaccaaaa tttctctgct ggaaacaacg agaacattat ggaggcccat gtaggaataa
+     9481 atggagaagc aaatctggat ttcttaaaca ttcctttaac aattcctgaa atgcgtctac
+     9541 cttacacaat aatcacaact cctccactga aagatttctc tctatgggaa aaaacaggct
+     9601 tgaaggaatt cttgaaaacg acaaagcaat catttgattt aagtgtaaaa gctcagtata
+     9661 agaaaaacaa acacaggcat tccatcacaa atcctttggc tgtgctttgt gagtttatca
+     9721 gtcagagcat caaatccttt gacaggcatt ttgaaaaaaa cagaaacaat gcattagatt
+     9781 ttgtcaccaa atcctataat gaaacaaaaa ttaagtttga taagtacaaa gctgaaaaat
+     9841 ctcacgacga gctccccagg acctttcaaa ttcctggata cactgttcca gttgtcaatg
+     9901 ttgaagtgtc tccattcacc atagagatgt cggcattcgg ctatgtgttc ccaaaagcag
+     9961 tcagcatgcc tagtttctcc atcctaggtt ctgacgtccg tgtgccttca tacacattaa
+    10021 tcctgccatc attagagctg ccagtccttc atgtccctag aaatctcaag ctttctcttc
+    10081 cagatttcaa ggaattgtgt accataagcc atatttttat tcctgccatg ggcaatatta
+    10141 cctatgattt ctcctttaaa tcaagtgtca tcacactgaa taccaatgct gaacttttta
+    10201 accagtcaga tattgttgct catctccttt cttcatcttc atctgtcatt gatgcactgc
+    10261 agtacaaatt agagggcacc acaagattga caagaaaaag gggattgaag ttagccacag
+    10321 ctctgtctct gagcaacaaa tttgtggagg gtagtcataa cagtactgtg agcttaacca
+    10381 cgaaaaatat ggaagtgtca gtggcaacaa ccacaaaagc ccaaattcca attttgagaa
+    10441 tgaatttcaa gcaagaactt aatggaaata ccaagtcaaa acctactgtc tcttcctcca
+    10501 tggaatttaa gtatgatttc aattcttcaa tgctgtactc taccgctaaa ggagcagttg
+    10561 accacaagct tagcttggaa agcctcacct cttacttttc cattgagtca tctaccaaag
+    10621 gagatgtcaa gggttcggtt ctttctcggg aatattcagg aactattgct agtgaggcca
+    10681 acacttactt gaattccaag agcacacggt cttcagtgaa gctgcagggc acttccaaaa
+    10741 ttgatgatat ctggaacctt gaagtaaaag aaaattttgc tggagaagcc acactccaac
+    10801 gcatatattc cctctgggag cacagtacga aaaaccactt acagctagag ggcctctttt
+    10861 tcaccaacgg agaacataca agcaaagcca ccctggaact ctctccatgg caaatgtcag
+    10921 ctcttgttca ggtccatgca agtcagccca gttccttcca tgatttccct gaccttggcc
+    10981 aggaagtggc cctgaatgct aacactaaga accagaagat cagatggaaa aatgaagtcc
+    11041 ggattcattc tgggtctttc cagagccagg tcgagctttc caatgaccaa gaaaaggcac
+    11101 accttgacat tgcaggatcc ttagaaggac acctaaggtt cctcaaaaat atcatcctac
+    11161 cagtctatga caagagctta tgggatttcc taaagctgga tgtaaccacc agcattggta
+    11221 ggagacagca tcttcgtgtt tcaactgcct ttgtgtacac caaaaacccc aatggctatt
+    11281 cattctccat ccctgtaaaa gttttggctg ataaattcat tattcctggg ctgaaactaa
+    11341 atgatctaaa ttcagttctt gtcatgccta cgttccatgt cccatttaca gatcttcagg
+    11401 ttccatcgtg caaacttgac ttcagagaaa tacaaatcta taagaagctg agaacttcat
+    11461 catttgccct caacctacca acactccccg aggtaaaatt ccctgaagtt gatgtgttaa
+    11521 caaaatattc tcaaccagaa gactccttga ttcccttttt tgagataacc gtgcctgaat
+    11581 ctcagttaac tgtgtcccag ttcacgcttc caaaaagtgt ttcagatggc attgctgctt
+    11641 tggatctaaa tgcagtagcc aacaagatcg cagactttga gttgcccacc atcatcgtgc
+    11701 ctgagcagac cattgagatt ccctccatta agttctctgt acctgctgga attgtcattc
+    11761 cttcctttca agcactgact gcacgctttg aggtagactc tcccgtgtat aatgccactt
+    11821 ggagtgccag tttgaaaaac aaagcagatt atgttgaaac agtcctggat tccacatgca
+    11881 gctcaaccgt acagttccta gaatatgaac taaatgtttt gggaacacac aaaatcgaag
+    11941 atggtacgtt agcctctaag actaaaggaa catttgcaca ccgtgacttc agtgcagaat
+    12001 atgaagaaga tggcaaatat gaaggacttc aggaatggga aggaaaagcg cacctcaata
+    12061 tcaaaagccc agcgttcacc gatctccatc tgcgctacca gaaagacaag aaaggcatct
+    12121 ccacctcagc agcctcccca gccgtaggca ccgtgggcat ggatatggat gaagatgacg
+    12181 acttttctaa atggaacttc tactacagcc ctcagtcctc tccagataaa aaactcacca
+    12241 tattcaaaac tgagttgagg gtccgggaat ctgatgagga aactcagatc aaagttaatt
+    12301 gggaagaaga ggcagcttct ggcttgctaa cctctctgaa agacaacgtg cccaaggcca
+    12361 caggggtcct ttatgattat gtcaacaagt accactggga acacacaggg ctcaccctga
+    12421 gagaagtgtc ttcaaagctg agaagaaatc tgcagaacaa tgctgagtgg gtttatcaag
+    12481 gggccattag gcaaattgat gatatcgacg tgaggttcca gaaagcagcc agtggcacca
+    12541 ctgggaccta ccaagagtgg aaggacaagg cccagaatct gtaccaggaa ctgttgactc
+    12601 aggaaggcca agccagtttc cagggactca aggataacgt gtttgatggc ttggtacgag
+    12661 ttactcaaga attccatatg aaagtcaagc atctgattga ctcactcatt gattttctga
+    12721 acttccccag attccagttt ccggggaaac ctgggatata cactagggag gaactttgca
+    12781 ctatgttcat aagggaggta gggacggtac tgtcccaggt atattcgaaa gtccataatg
+    12841 gttcagaaat actgttttcc tatttccaag acctagtgat tacacttcct ttcgagttaa
+    12901 ggaaacataa actaatagat gtaatctcga tgtataggga actgttgaaa gatttatcaa
+    12961 aagaagccca agaggtattt aaagccattc agtctctcaa gaccacagag gtgctacgta
+    13021 atcttcagga ccttttacaa ttcattttcc aactaataga agataacatt aaacagctga
+    13081 aagagatgaa atttacttat cttattaatt atatccaaga tgagatcaac acaatcttca
+    13141 gtgattatat cccatatgtt tttaaattgt tgaaagaaaa cctatgcctt aatcttcata
+    13201 agttcaatga atttattcaa aacgagcttc aggaagcttc tcaagagtta cagcagatcc
+    13261 atcaatacat tatggccctt cgtgaagaat attttgatcc aagtatagtt ggctggacag
+    13321 tgaaatatta tgaacttgaa gaaaagatag tcagtctgat caagaacctg ttagttgctc
+    13381 ttaaggactt ccattctgaa tatattgtca gtgcctctaa ctttacttcc caactctcaa
+    13441 gtcaagttga gcaatttctg cacagaaata ttcaggaata tcttagcatc cttaccgatc
+    13501 cagatggaaa agggaaagag aagattgcag agctttctgc cactgctcag gaaataatta
+    13561 aaagccaggc cattgcgacg aagaaaataa tttctgatta ccaccagcag tttagatata
+    13621 aactgcaaga tttttcagac caactctctg attactatga aaaatttatt gctgaatcca
+    13681 aaagattgat tgacctgtcc attcaaaact accacacatt tctgatatac atcacggagt
+    13741 tactgaaaaa gctgcaatca accacagtca tgaaccccta catgaagctt gctccaggag
+    13801 aacttactat catcctctaa ttttttaaaa gaaatcttca tttattcttc ttttccaatt
+    13861 gaactttcac atagcacaga aaaaattcaa actgcctata ttgataaaac catacagtga
+    13921 gccagccttg cagtaggcag tagactataa gcagaagcac atatgaactg gacctgcacc
+    13981 aaagctggca ccagggctcg gaaggtctct gaactcagaa ggatggcatt ttttgcaagt
+    14041 taaagaaaat caggatctga gttattttgc taaacttggg ggaggaggaa caaataaatg
+    14101 gagtctttat tgtgtatcat a
+//
+
